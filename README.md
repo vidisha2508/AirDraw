@@ -35,10 +35,6 @@ The project combines computer vision, real-time hand tracking, UI interaction, a
 
 ## 1. Clone the Repository
 
-```bash
-git clone https://github.com/vidisha2508/AirDraw.git
-cd AirDraw
-```
 
 ## 2. Install Required Libraries
 
@@ -50,11 +46,7 @@ pip install opencv-python mediapipe numpy
 
 # How to Run 
 
-Run the Python file:
-
-```bash
-python AirDraw.py
-```
+Run the Python file
 
 Press `Q` anytime to quit the application.
 
